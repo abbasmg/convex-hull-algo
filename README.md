@@ -18,3 +18,4 @@ Steps
 
 # GUI looks like this and is made using tkinter
 ![image](https://github.com/abbasmg/convex-hull-algo/assets/52215200/70621ffd-ba7e-4094-ba6d-cf2e6931f6b1)
+![image](https://github.com/abbasmg/convex-hull-algo/assets/52215200/b7ff32bd-687c-4910-af5d-497f8c7e0928)
