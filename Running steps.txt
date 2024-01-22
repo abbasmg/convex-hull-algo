@@ -1,0 +1,15 @@
+1. Run GUI
+2. Click generate points button
+3. Run brute
+4. Clear lines
+5. Run Jarvis
+6. Clear lines
+7. Run Graham
+8. Clear lines
+9. Run D&C 
+10. Clear lines
+11. Clear Points
+12. Chart vertices of simple polygon in clockwise manner by using mouse click
+Note : make sure second point in simple polygon is part of convex hull
+13. Run polygon
+14. Clear points
